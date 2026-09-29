@@ -121,6 +121,19 @@ For quantitative analysis, avoid screenshots, PowerPoint exports, JPEG compressi
 └── .gitignore
 ```
 
+
+## Citation
+
+If you use this software in a publication, presentation, thesis, or other research output, please cite the software repository.
+
+**Suggested citation**
+
+> Karim, M. M. (2026). *Fluorescence USAF MTF Analyzer* (Version 1.0.0) [Computer software]. GitHub. https://github.com/Mobarak-Karim/USAF-MTF-Analyzer
+
+A machine-readable citation is also provided in `CITATION.cff`. GitHub can use this file to display a **Cite this repository** option.
+
+When reporting results generated with this program, also describe the image source, pixel size, USAF group/element, bar orientation, ROI selection procedure, smoothing setting, number of peaks/valleys used, and whether the reported quantity is absolute Michelson CTF or normalized CTF.
+
 ## License
 
 No license has been assigned yet. Add an appropriate license before public redistribution if needed.
