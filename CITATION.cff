@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the metadata below."
+title: "Fluorescence USAF MTF Analyzer"
+type: software
+version: "1.0.0"
+date-released: 2026-09-29
+authors:
+  - family-names: "Karim"
+    given-names: "Md. Mobarak"
+repository-code: "https://github.com/Mobarak-Karim/USAF-MTF-Analyzer"
+url: "https://github.com/Mobarak-Karim/USAF-MTF-Analyzer"
+abstract: >-
+  A Python desktop application for quantitative analysis of fluorescent
+  USAF 1951 resolution-target images. The software extracts averaged
+  intensity profiles from user-selected bar-pattern regions, calculates
+  Michelson contrast transfer, compares horizontal and vertical responses,
+  and exports publication-ready scientific figures.
+keywords:
+  - microscopy
+  - fluorescence microscopy
+  - USAF 1951
+  - resolution
+  - contrast transfer function
+  - MTF
+  - image analysis
+  - Python
